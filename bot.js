@@ -1,19 +1,28 @@
 var fs = require('fs'),
     path = require('path'),
     Twit = require('twit'),
-    config = require(path.join(__dirname, '/credentials/' + 'twitter.js')),
     google = require('googleapis').google,
     imageDownloader = require('image-downloader');
+
+const googleSearchCredentials = require(path.join(__dirname, '/credentials/google-search.json'));
+const config = require(path.join(__dirname, '/credentials/twitter.json'));
 
 var T = new Twit(config);
 const customSearch = google.customsearch('v1'); 
 
-const googleSearchCredentials = require(path.join(__dirname, '/credentials/' + 'google-search.json'));
 
-function embbedId(name, data) {
-	var fdata = fs.readFileSync(path.join(__dirname, 'images.js')).toString() + "var " + name + " = [\n 	{\n		created_at: '" + data.created_at + "',\n 		id: " + data.id + ",\n 		id_str: '" + data.id_str + "',\n 		url: '" + "https:" + "',\n 	}\n];\n\n"
+function embbedId(name, data, url) {
+	var fdata = fs.readFileSync(path.join(__dirname, 'images.json')).toString().replace('	}\n}', '	}') + `	
+	"${name}": {
+		"created_at":	"${data.created_at}",
+		"id":			"${data.id}",
+		"id_str":		"${data.id_str}",
+		"url":			"${url}"
+	}
+}
+	`
 
-	fs.writeFile('images.js', fdata, (err) => 
+	fs.writeFile('images.json', fdata, (err) => 
 		{
 			if (err) {
 				console.log('[!] ERROR on trying to write at image.js.');
@@ -57,9 +66,24 @@ function retweet(_id) {
 	);
 }
 
-function postImage(image_name) {
+function postImage(image_name, url) {
+	/*var isDuplicate = false
+	const images = require(path.join(__dirname, 'images.json'))
+
+	for (i = 0; i < images.length; i++) {
+		if (image_name == images[i]) {
+			console.log('[!] Image has been already posted.')
+			isDuplicate = true
+		}
+
+	}*/
+
 	console.log('[+] Opening the image: ' + image_name);
 	var b64content = fs.readFileSync(path.join(__dirname, '/images/' + image_name), { encoding: 'base64' });
+
+	/*if (isDuplicate) {
+		return 0
+	}*/
 
 	console.log('[+] Uploading the image: ' + image_name);
 
@@ -83,7 +107,7 @@ function postImage(image_name) {
 
 						if (response && !err) {
 							console.log('[=] Posted the image: ' + image_name + ' with id ' + data.id_str + ' on ' + data.user.screen_name + '.');
-							embbedId(image_name, data);
+							embbedId(image_name, data, url);
 						}
 					}
 				);
@@ -115,8 +139,6 @@ async function searchImages (master_query) { //Thanks to Filipe Deschamps
 	async function downloadAllImages(content) {
 		content.downloadedImages = []
 
-		content[1] = 'https://assets.pcmag.com/media/images/519064-nvidia-geforce-rtx-2080-ti-founders-edition.jpg?width=810&height=456'
-
 		for (let imageIndex = 0; imageIndex < content.length; imageIndex++) {
 			try {
 				if(content.downloadedImages.includes(content[imageIndex])) {
@@ -145,8 +167,7 @@ async function searchImages (master_query) { //Thanks to Filipe Deschamps
 				await downloadAndSave(content[imageIndex])
 				content.downloadedImages.push(content[imageIndex])
 				console.log('[=] Downloaded image: ' + content[imageIndex] + ' as ' + filename)
-				postImage(filename)
-				break
+				postImage(filename, content[imageIndex])
 			} catch (error) {
 				console.log('[!] ERROR on trying to download image: ' + content[imageIndex] + '.')
 				console.log(error)
@@ -162,4 +183,12 @@ async function searchImages (master_query) { //Thanks to Filipe Deschamps
 	}
 }
 
-searchImages('rtx 2080 ti')
+//searchImages('rtx 2080 ti')
+const images = require(path.join(__dirname, 'images.json'))
+
+if (images.includes('519064-nvidia-geforce-rtx-2080-ti-founders-edition.jpg')) {
+	console.log("a")
+}
+
+//Think somehow to verify if the target image has been uploaded
+
