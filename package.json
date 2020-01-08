@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "Bot that searches images of hardware on google and post on twitter",
   "dependencies": {
+    "get-image-colors": "^2.0.0",
     "googleapis": "^46.0.0",
+    "ibm-watson": "^5.2.1",
     "image-downloader": "^3.5.0",
     "path": "^0.12.7",
     "twit": "^2.2.11"

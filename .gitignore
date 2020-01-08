@@ -1,0 +1,12 @@
+#ignore node_modules folder
+node_modules
+
+#ignore DS_Store file that I don't for what it is needed
+.DS_Store
+
+#ignore package-lock.json file
+package-lock.json
+
+#ignore ./images/AI/*Examples
+images/AI/NegativeExamples
+images/AI/PositiveExamples

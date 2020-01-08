@@ -1,0 +1,43 @@
+{
+	"classifiers": [
+		{
+			"class": "fan"
+		},
+		{
+			"class": "exhaust fan"
+		},
+		{
+			"class": "electric fan"
+		},
+		{
+			"class": "equipment"
+		},
+		{
+			"class": "mechanism"
+		},
+		{
+			"class": "memory device"
+		},
+		{
+			"class": "photographic equipment"
+		},
+		{
+			"class": "electrical device"
+		},
+		{
+			"class": "electronic equipment"
+		},
+		{
+			"class": "computer circuit"
+		},
+		{
+			"class": "telecommunication"
+		},
+		{
+			"class": "hard disc"
+		},
+		{
+			"class": "removable disk"
+		}
+	]
+}

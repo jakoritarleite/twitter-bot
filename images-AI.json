@@ -1,0 +1,5111 @@
+
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "magnetic recorder",
+              "score": 0.762,
+              "type_hierarchy": "/recorder/magnetic recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.806
+            },
+            {
+              "class": "tape drive",
+              "score": 0.642
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.522,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.626
+            },
+            {
+              "class": "tape recording",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/tape recording"
+            },
+            {
+              "class": "audio system",
+              "score": 0.793
+            },
+            {
+              "class": "mechanism",
+              "score": 0.801
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.991
+            }
+          ]
+        }
+      ],
+      "source_url": "https://webobjects2.cdw.com/is/image/CDW/5333589?$product-main$",
+      "resolved_url": "https://webobjects2.cdw.com/is/image/CDW/5333589?$product-main$"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "exhaust fan",
+              "score": 0.68,
+              "type_hierarchy": "/fan/exhaust fan"
+            },
+            {
+              "class": "fan",
+              "score": 0.766
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.501
+            },
+            {
+              "class": "audio system",
+              "score": 0.588
+            },
+            {
+              "class": "recording",
+              "score": 0.599
+            },
+            {
+              "class": "electrical device",
+              "score": 0.585
+            },
+            {
+              "class": "mechanism",
+              "score": 0.598
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.59
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.911
+            },
+            {
+              "class": "gray color",
+              "score": 0.637
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608293-image-nvidia-geforce-rtx-2080-ti-founders-edition-7-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608293-image-nvidia-geforce-rtx-2080-ti-founders-edition-7-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "magnetic recorder",
+              "score": 0.762,
+              "type_hierarchy": "/recorder/magnetic recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.806
+            },
+            {
+              "class": "tape drive",
+              "score": 0.642
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.522,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.626
+            },
+            {
+              "class": "tape recording",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/tape recording"
+            },
+            {
+              "class": "audio system",
+              "score": 0.793
+            },
+            {
+              "class": "mechanism",
+              "score": 0.801
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.991
+            }
+          ]
+        }
+      ],
+      "source_url": "https://webobjects2.cdw.com/is/image/CDW/5333589?$product-main$",
+      "resolved_url": "https://webobjects2.cdw.com/is/image/CDW/5333589?$product-main$"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "exhaust fan",
+              "score": 0.68,
+              "type_hierarchy": "/fan/exhaust fan"
+            },
+            {
+              "class": "fan",
+              "score": 0.766
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.501
+            },
+            {
+              "class": "audio system",
+              "score": 0.588
+            },
+            {
+              "class": "recording",
+              "score": 0.599
+            },
+            {
+              "class": "electrical device",
+              "score": 0.585
+            },
+            {
+              "class": "mechanism",
+              "score": 0.598
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.59
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.911
+            },
+            {
+              "class": "gray color",
+              "score": 0.637
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608293-image-nvidia-geforce-rtx-2080-ti-founders-edition-7-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608293-image-nvidia-geforce-rtx-2080-ti-founders-edition-7-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "videodisk",
+              "score": 0.564,
+              "type_hierarchy": "/memory device/videodisk"
+            },
+            {
+              "class": "memory device",
+              "score": 0.87
+            },
+            {
+              "class": "optical disk",
+              "score": 0.561,
+              "type_hierarchy": "/memory device/optical disk"
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.528,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "hard disc",
+              "score": 0.517,
+              "type_hierarchy": "/memory device/hard disc"
+            },
+            {
+              "class": "compact-disk burner",
+              "score": 0.512,
+              "type_hierarchy": "/recorder/compact-disk burner"
+            },
+            {
+              "class": "recorder",
+              "score": 0.523
+            },
+            {
+              "class": "removable disk",
+              "score": 0.5,
+              "type_hierarchy": "/memory device/removable disk"
+            },
+            {
+              "class": "recording",
+              "score": 0.789
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.797
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.972
+            },
+            {
+              "class": "coal black color",
+              "score": 0.734
+            }
+          ]
+        }
+      ],
+      "source_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg",
+      "resolved_url": "https://tshop.r10s.com/0f0/442/8b6e/31fd/80b6/9ad6/6b70/111ce992080242ac110002.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "nougat bar",
+              "score": 0.763,
+              "type_hierarchy": "/food/nutrition/delicacy/sweet/candy/nougat bar"
+            },
+            {
+              "class": "candy",
+              "score": 0.763
+            },
+            {
+              "class": "sweet",
+              "score": 0.763
+            },
+            {
+              "class": "delicacy",
+              "score": 0.763
+            },
+            {
+              "class": "nutrition",
+              "score": 0.763
+            },
+            {
+              "class": "food",
+              "score": 0.763
+            },
+            {
+              "class": "gas range",
+              "score": 0.557,
+              "type_hierarchy": "/appliance/kitchen stove/gas range"
+            },
+            {
+              "class": "kitchen stove",
+              "score": 0.558
+            },
+            {
+              "class": "appliance",
+              "score": 0.56
+            },
+            {
+              "class": "gas ring",
+              "score": 0.5,
+              "type_hierarchy": "/apparatus/burner/gas ring"
+            },
+            {
+              "class": "burner",
+              "score": 0.502
+            },
+            {
+              "class": "apparatus",
+              "score": 0.502
+            },
+            {
+              "class": "equipment",
+              "score": 0.6
+            },
+            {
+              "class": "engine",
+              "score": 0.597
+            },
+            {
+              "class": "chocolate color",
+              "score": 0.874
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.87
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg",
+      "resolved_url": "https://www.computeruniverse.net/images/1000/90739849771080EBA1AE49008C1B5638.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.888
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.793
+            },
+            {
+              "class": "recording",
+              "score": 0.787
+            },
+            {
+              "class": "memory device",
+              "score": 0.799
+            },
+            {
+              "class": "electrical device",
+              "score": 0.793
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.834
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg",
+      "resolved_url": "https://www.overclockers.co.uk/media/image/thumbnail/GX1A0GI_190915_800x800.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "audiocassette",
+              "score": 0.589
+            },
+            {
+              "class": "boom box",
+              "score": 0.551,
+              "type_hierarchy": "/audio system/stereo system/boom box"
+            },
+            {
+              "class": "stereo system",
+              "score": 0.621
+            },
+            {
+              "class": "audio system",
+              "score": 0.655
+            },
+            {
+              "class": "digital audiotape",
+              "score": 0.549,
+              "type_hierarchy": "/memory device/digital audiotape"
+            },
+            {
+              "class": "memory device",
+              "score": 0.653
+            },
+            {
+              "class": "film advance",
+              "score": 0.543
+            },
+            {
+              "class": "magnetic tape",
+              "score": 0.524,
+              "type_hierarchy": "/memory device/magnetic tape"
+            },
+            {
+              "class": "candid camera",
+              "score": 0.5,
+              "type_hierarchy": "/photographic equipment/camera/candid camera"
+            },
+            {
+              "class": "camera",
+              "score": 0.54
+            },
+            {
+              "class": "photographic equipment",
+              "score": 0.545
+            },
+            {
+              "class": "recording",
+              "score": 0.6
+            },
+            {
+              "class": "electrical device",
+              "score": 0.593
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.599
+            },
+            {
+              "class": "ash grey color",
+              "score": 0.979
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608295-image-nvidia-geforce-rtx-2080-ti-founders-edition-9-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "default",
+          "name": "default",
+          "classes": [
+            {
+              "class": "cassette recorder",
+              "score": 0.566,
+              "type_hierarchy": "/recorder/cassette recorder"
+            },
+            {
+              "class": "recorder",
+              "score": 0.637
+            },
+            {
+              "class": "tape drive",
+              "score": 0.547
+            },
+            {
+              "class": "interface",
+              "score": 0.521,
+              "type_hierarchy": "/electrical device/computer circuit/interface"
+            },
+            {
+              "class": "computer circuit",
+              "score": 0.525
+            },
+            {
+              "class": "electrical device",
+              "score": 0.527
+            },
+            {
+              "class": "backspace key",
+              "score": 0.513,
+              "type_hierarchy": "/bar/lever/key (keyboard)/backspace key"
+            },
+            {
+              "class": "key (keyboard)",
+              "score": 0.522
+            },
+            {
+              "class": "lever",
+              "score": 0.522
+            },
+            {
+              "class": "bar",
+              "score": 0.522
+            },
+            {
+              "class": "controller",
+              "score": 0.51
+            },
+            {
+              "class": "Dictaphone (tape recorder)",
+              "score": 0.5,
+              "type_hierarchy": "/recorder/Dictaphone (tape recorder)"
+            },
+            {
+              "class": "mechanism",
+              "score": 0.601
+            },
+            {
+              "class": "electronic equipment",
+              "score": 0.6
+            },
+            {
+              "class": "telecommunication",
+              "score": 0.595
+            },
+            {
+              "class": "charcoal color",
+              "score": 0.877
+            },
+            {
+              "class": "coal black color",
+              "score": 0.664
+            }
+          ]
+        }
+      ],
+      "source_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456",
+      "resolved_url": "https://assets.pcmag.com/media/images/608287-image-nvidia-geforce-rtx-2080-ti-founders-edition-15-jpg.jpg?thumb=y&width=980&height=456"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
