@@ -1,1 +1,1 @@
-worker: npm --unhandled-rejections=strict bot.js
+worker: npm bot.js
