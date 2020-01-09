@@ -286,7 +286,7 @@ async function AIImageClassifier(url, filename) {
 			console.log(url)
 			console.log(fit)
 
-			if (fit > 0.18) {
+			if (fit > 0.2) {
 				var doPost = true
 			} else {
 				var doPost = false
@@ -314,4 +314,4 @@ async function AIImageClassifier(url, filename) {
 		})
 }
 
-//searchImages('rtx 2080 ti')
+setInterval(function() {searchImages('ryzen threadripper')}, 1 * 60000)
