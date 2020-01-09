@@ -246,17 +246,7 @@ async function AIImageClassifier(url, filename) {
 		.then(response=> {
 			var classifiedImages = response.result
 			//console.log(JSON.stringify(classifiedImages, null, 2))
-			var fdata = fs.readFileSync('images-AI.json')
-			fs.writeFile('images-AI.json', fdata + '\n' + JSON.stringify(classifiedImages, null, 2), (err) => 
-				{
-					if (err) {
-						console.log('[!] ERROR on trying to write at image.js.');
-					} else {
-						//console.log('[=] Embbeded image data.');
-					}
-				}
-			);
-			
+
 			var targetImages = require('./target-image-data.json')
 			var targetDataClass = targetImages.classifiers.map((classes)=>{
 				return classes.class
