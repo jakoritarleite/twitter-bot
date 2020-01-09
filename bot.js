@@ -314,4 +314,4 @@ async function AIImageClassifier(url, filename) {
 		})
 }
 
-setInterval(function() {searchImages('ryzen threadripper')}, 1 * 60000)
+setInterval(function() {searchImages('ryzen threadripper')}, 1 * 40000)
