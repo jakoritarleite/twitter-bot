@@ -314,4 +314,4 @@ async function AIImageClassifier(url, filename) {
 		})
 }
 
-setInterval(function() {searchImages('ryzen threadripper')}, 1 * 40000)
+setInterval(function() {searchImages('ryzen threadripper')}, 20 * 60000) //Make a function to select different "topics" and post.
