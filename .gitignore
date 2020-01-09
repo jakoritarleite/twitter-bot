@@ -10,3 +10,6 @@ package-lock.json
 #ignore ./images/AI/*Examples
 images/AI/NegativeExamples
 images/AI/PositiveExamples
+
+#*
+command

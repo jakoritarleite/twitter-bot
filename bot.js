@@ -180,7 +180,6 @@ async function searchImages(master_query) { //Thanks to Filipe Deschamps
 				}
 
 				var doExists = verifyItHasBeenPosted(filename)
-				var isWhite = false
 
 				if (doExists) {
 					console.log('[!] This image has been posted.')
@@ -189,7 +188,7 @@ async function searchImages(master_query) { //Thanks to Filipe Deschamps
 						url: content[imageIndex],
 						dest: `./images/AI/color-classify/`
 					})
-					console.log('[+] Checking if image is fit to be posted.')
+					console.log('[+] Checking if image ' + filename + ' is fit to be posted.')
 					getColors('./images/AI/color-classify/' + filename)
 					.then(colors => {
 						var isWhite = false
@@ -209,7 +208,7 @@ async function searchImages(master_query) { //Thanks to Filipe Deschamps
 						}
 					})
 					.catch(err=> {
-						console.log('[!] ERROR in classify images.')
+						console.log('[!] ERROR in classify images. bot.js:211')
 						console.log(err)
 					})
 				}
@@ -273,10 +272,7 @@ async function AIImageClassifier(url, filename) {
 				}
 			}
 
-			console.log(url)
-			console.log(fit)
-
-			if (fit > 0.2) {
+			if (fit > 0.191) {
 				var doPost = true
 			} else {
 				var doPost = false
@@ -286,14 +282,12 @@ async function AIImageClassifier(url, filename) {
 				console.log('[=] The image is fit to be posted.')
 				imageDownloader.image({
 					url: url,
-					dest: `./images/AI/classified/`
+					dest: `./images/AI/color-classify/`
 				})
-				//content.downloadedImages.push(url)
 				console.log('[=] Downloaded image: ' + url + ' as ' + filename)
 				postImage(filename, url)
 
 				return 0
-				//process.exit(1)
 			} else {
 				console.log('[=] The image isn`t fit to be posted.')
 			}
@@ -304,4 +298,17 @@ async function AIImageClassifier(url, filename) {
 		})
 }
 
-setInterval(function() {searchImages('ryzen threadripper')}, 20 * 60000) //Make a function to select different "topics" and post.
+
+function searchTopics() {
+	var targetTopics = require('./topics.json')
+	var topicToSearch = ''
+
+	for (i = 0; i < targetTopics.topics.length; i++) {
+		topicToSearch = targetTopics.topics[i]
+		console.log('[*] Searching for: ' + topicToSearch)
+		setInterval(function() {searchImages(topicToSearch)}, .5 * 60000) //Make a function to select different "topics" and post.
+	}
+
+}
+
+searchTopics()
