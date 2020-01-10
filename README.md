@@ -6,7 +6,7 @@
 ![issues closed](https://img.shields.io/badge/closed%20issues-0-green.svg?style=flat)
 ![build](https://img.shields.io/badge/build-passing-orange.svg?style=flat)
 
-It is an automated bot that searchs images (you specify which is the content) on the Google using cse (Custom Search Engine), download them and classify using the color return by a pixel array (return a pallete with the predominant colors), and send as colors classifieds images to Watson (IBM's AI) to get what is in the image, and then according to a *.json* file it identify if is what you want and return the best image to be posted on the Twitter account. 
+It is an automated bot that searchs images (you specify which is the content) on the Google using cse (Custom Search Engine), download them and classify using the color return by a pixel array (return a pallete with the predominant colors), and send as colors classifieds images to Watson (IBM's AI) to get what is in the image, and then according to a *.json* file it identify if is what you want and return the best image to be posted on the Twitter account.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ npm i <package name>
 
 To run the bot you will need to create account _Google_, _IBM_ and _Twitter_, to have access on Google Custom Search API's, Watson Visual Recognition API's and Twitter API's.
 
-Fill the files on `./credentials/*.json` with the api keys from Twitter, Google and IBM. 
+Fill the files on `./credentials/*.json` with the api keys from Twitter, Google and IBM.
 
 
 ```
@@ -90,7 +90,7 @@ npm test cse
 npm test watson
 ```
 
-* This test the Twitter API and verify if the uploading and twitting is working.
+* This test the Twitter API and verify if the uploading and tweeting is working.
 
 ```
 npm test twitter
@@ -111,7 +111,7 @@ To deploy it on live system is very simple, you just need to do what you've done
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jakoritarleite/twitter-bot/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jakoritarleite/twitter-bot/tags).
 
 ## Authors
 
