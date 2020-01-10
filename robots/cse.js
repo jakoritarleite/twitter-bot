@@ -7,7 +7,7 @@ async function robot() {
     const search = state.load()
     const customSearch = google.customsearch('v1')
 
-    //await fetchGoogleAndReturnImages(search.term)
+    await fetchGoogleAndReturnImages(search.term)
     await downloadAllImagesReturned()
     state.save(search)
 
@@ -20,9 +20,8 @@ async function robot() {
             pages:      10
         })
 
-        const imageUrls = response.data.items.map((item)=> { return item.link })
-
-        search.urls = imageUrls
+        //const imageUrls = response.data.items.map((item)=> { return item.link })
+        search.urls = response.data.items.map((item)=> { return item.link })
     }
 
     async function downloadAllImagesReturned() {
