@@ -29,8 +29,8 @@ async function robot() {
         search.filenames = []
         for (urlIndex = 0; urlIndex < search.urls.length; urlIndex++) {
             try {
-                await downloadImage(search.urls[urlIndex])
-                search.filenames[urlIndex] = await getFilename(search.urls[urlIndex], urlIndex)
+                await downloadImage(search.urls[urlIndex], `${search.term}-${urlIndex}.jpg`)
+                search.filenames[urlIndex] = `${search.term}-${urlIndex}.jpg`
                 console.log('[!] Downloaded image ' + search.filenames[urlIndex])
                 //break
             } catch (error) {
@@ -40,10 +40,10 @@ async function robot() {
         }
     }
 
-    async function downloadImage(url) {
+    async function downloadImage(url, filename) {
          return imageDownloader.image({
              url, url,
-             dest: './content/images/'
+             dest: `./content/images/${filename}`
          })
     }
 
