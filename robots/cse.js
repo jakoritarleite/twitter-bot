@@ -1,11 +1,15 @@
+const state = require('./state.js')
 const google = require('googleapis').google
 const googleCustomSearchCredentials = require('../credentials/google-search.json')
 
-async function robot(search) {
+async function robot() {
+    const search = state.load()
     const customSearch = google.customsearch('v1')
 
     await fetchGoogleAndReturnImages(search.term)
     await downloadAllImagesReturned(search.urls)
+
+    state.save(search)
 
     async function fetchGoogleAndReturnImages(term) {
         const response = await customSearch.cse.list({
@@ -22,7 +26,7 @@ async function robot(search) {
     }
 
     async function downloadAllImagesReturned(links) {
-        
+        return 'NULL'
     }
 
 }
