@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Ignore .DS_Store file created by mac os
+.DS_Store
+
+#Ignore all my credentials
+credentials/google-search.json
+credentials/ibm-watson.json
+credentials/twitter.json
+
+#Ignore state.json
+state.json
+
+#Ignore every image in content
+content/images*
