@@ -20,7 +20,7 @@ Packages:
 
 ```
 node.js^13.5.0
-npm^6.13.4
+npm^6.13.6
 npm@get-image-colors^2.0.0,
    @googleapis^46.0.0,
    @ibm-watson^5.2.1,
