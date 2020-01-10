@@ -1,0 +1,30 @@
+{
+  "name": "bot",
+  "version": "2.0.0",
+  "description": "\"Bot that searches custom images and classify them to post on Twitter.\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakoritarleite/twitter-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "ibm",
+    "watson",
+    "cse",
+    "google",
+    "ai"
+  ],
+  "author": "João Koritar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakoritarleite/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/jakoritarleite/twitter-bot#readme",
+  "dependencies": {}
+}
