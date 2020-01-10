@@ -90,7 +90,7 @@ npm test cse
 npm test watson
 ```
 
-* This test the Twitter API and verify if the uploading and twitting is working.
+* This test the Twitter API and verify if the uploading and tweeting is working.
 
 ```
 npm test twitter
