@@ -110,6 +110,7 @@ dist
 credentials/google-search.json
 credentials/ibm-watson.json
 credentials/twitter.json
+credentials/algorithmia.json
 
 #Ignore state.json
 state.json
