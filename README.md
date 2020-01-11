@@ -24,7 +24,7 @@ npm^6.13.6
 npm@get-image-colors^2.0.0,
    @googleapis^46.0.0,
    @ibm-watson^5.2.1,
-   @image-downloader^3.5.0,
+   @algorithmia^0.3.10,
    @path^0.12.7,
    @twit^2.2.11
 ```
