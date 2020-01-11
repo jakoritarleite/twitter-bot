@@ -1,14 +1,20 @@
-function start() {
-    const search = {}
+const robots = {
+    terms: require('./robots/terms.js'),
+    cse: require('./robots/cse.js'),
+    watson: require('./robots/watson.js'),
+    color: require('./robots/color.js'),
+    twitter: require('./robots/twitter.js'),
+    state: require('./robots/state.js')
+}
 
-    search.term = readAndReturnSearchTerm()
+async function start() {
+    await robots.terms()
+    await robots.cse()
+    await robots.color()
+    await robots.watson()
+    await robots.twitter()
 
-    function readAndReturnSearchTerm() {
-        const terms = require('./bot-files/search-terms.json')
-        return terms.target[0]
-    }
-
-    console.log(search)
+    const search = robots.state.load()
 }
 
 start ()
