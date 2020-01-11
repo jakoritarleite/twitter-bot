@@ -9,6 +9,7 @@ async function robot() {
 
     await fetchGoogleAndReturnImages(search.term)
     await downloadAllImagesReturned()
+
     state.save(search)
 
     async function fetchGoogleAndReturnImages(term) {
@@ -20,7 +21,6 @@ async function robot() {
             pages:      10
         })
 
-        //const imageUrls = response.data.items.map((item)=> { return item.link })
         search.urls = response.data.items.map((item)=> { return item.link })
     }
 
@@ -31,9 +31,8 @@ async function robot() {
                 await downloadImage(search.urls[urlIndex], `${search.term}-${urlIndex}.jpg`)
                 search.filenames[urlIndex] = `${search.term}-${urlIndex}.jpg`
                 console.log('[!] Downloaded image ' + search.filenames[urlIndex])
-                //break
             } catch (error) {
-                console.log('[!] ERROR: downloading image ' + search.filenames[urlIndex])
+                console.log('[!] Error: downloading image ' + search.filenames[urlIndex])
                 console.log(error)
             }
         }
@@ -47,7 +46,6 @@ async function robot() {
     }
 
     async function getFilename(url, index) {
-        //console.log(url)
         var isSlash = false
 		var isExtension = false
 		var fName = 0
