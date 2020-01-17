@@ -3,7 +3,7 @@
 ![version](https://img.shields.io/badge/version-2.0.0-blue.svg?style=flat)
 ![licence](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat)
 ![issues](https://img.shields.io/badge/open%20issues-1-green?style=flat)
-![issues closed](https://img.shields.io/badge/closed%20issues-3-green.svg?style=flat)
+![issues closed](https://img.shields.io/badge/closed%20issues-4-green.svg?style=flat)
 ![build](https://img.shields.io/badge/build-passing-orange.svg?style=flat)
 
 It is an automated bot that searchs images (you specify which is the content) on the Google using cse (Custom Search Engine), download them and classify using the color return by a pixel array (return a pallete with the predominant colors), and send as colors classifieds images to Watson (IBM's AI) to get what is in the image, and then according to a *.json* file it identify if is what you want and return the best image to be posted on the Twitter account.
