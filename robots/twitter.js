@@ -13,20 +13,20 @@ async function robot() {
 
     console.log('[+] Uploading the image: ' + search.post)
 
-    T.post('media/upload', { media_data: b64content })
-    .then (async function (data) {
-        console.log('[=] Uploaded image to Twitter')
-
-        T.post('statuses/update', { media_ids: new Array(data.data.media_id_string) })
-        .then (async function (tdata) {
-            console.log('[=] Twitted image: ' + search.post + ' with id ' + tdata.data.id_str + ' on ' + tdata.data.user.screen_name)
-
-        }) .catch(terr => {
-            console.log('[!] Error (' + terr.message + '): tweeting image ' + search.post)
-        })
-
-    }) .catch (err => {
-        console.log('[!] Error (' + err.message + '): uploading image ' + search.post)
+    T.post('media/upload', { media_data: b64content }, async function (err, data, response) {
+        if (!err) {
+            console.log('[=] Uploaded image to Twitter')
+        }
+        else if (err) {
+              T.post('statuses/update', { media_ids: new Array(data.data.media_id_string) }, async function (terr, tdata, tresponse) {
+                  if (!terr) {
+                        console.log('[=] Twitted image: ' + search.post + ' with id ' + tdata.data.id_str + ' on ' + tdata.data.user.screen_name)
+                  }
+                  else if (terr) {
+                      console.log('[!] Error (' + terr.message + '): tweeting image ' + search.post)
+                  }
+              })
+        }
     })
 }
 
