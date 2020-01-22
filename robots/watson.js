@@ -28,37 +28,38 @@ async function robot() {
 
         const targetClasses = require('../bot-files/target-classes.json')
 
-        visualRecognition.classify({ url: search.urls[index] })
-        .then(async function(response) {
-            let score = 0
-            let imageClasses = response.result.images[0].classifiers[0].classes.map((classes) => {
-                return classes.class
-            })
+        visualRecognition.classify({ url: search.urls[index] }, async function(response, err) {
+            if (!err) {
+                  let score = 0
+                  let imageClasses = response.result.images[0].classifiers[0].classes.map((classes) => {
+                      return classes.class
+                  })
 
-            let imageScores = response.result.images[0].classifiers[0].classes.map((classes) => {
-                return classes.score
-            })
+                  let imageScores = response.result.images[0].classifiers[0].classes.map((classes) => {
+                      return classes.score
+                  })
 
-            for (x = 0; x < imageClasses.length; x++) {
-                if (targetClasses.includes(imageClasses[x])) {
-                    if (imageScores[x] >= 0.6) {
-                        score += imageScores[x] / 10
-                    }
-                }
+                  for (x = 0; x < imageClasses.length; x++) {
+                      if (targetClasses.includes(imageClasses[x])) {
+                          if (imageScores[x] >= 0.6) {
+                              score += imageScores[x] / 10
+                          }
+                      }
+                  }
+                  search.score.push(score)
+                  search.largest = Math.max.apply(Math, search.score);
+
+                  for (x = 0; x < search.score.length; x++) {
+                      if (search.score[x] == search.largest) {
+                          search.post = search.filenames[index]
+                      }
+                  }
+                  state.save(search);
             }
-            search.score.push(score)
-            search.largest = Math.max.apply(Math, search.score);
-
-            for (x = 0; x < search.score.length; x++) {
-                if (search.score[x] == search.largest) {
-                    search.post = search.filenames[index]
-                }
+            else if (err) {
+                  console.log('[!] Error (' + err.message + '): classifying image ' + search.filenames[index])
             }
-            state.save(search)
-
-        }) .catch(err => {
-            console.log('[!] Error (' + err.message + '): classifying image ' + search.filenames[index])
-        })
+        });
     }
 }
 
