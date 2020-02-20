@@ -7,21 +7,30 @@ async function robot() {
     const search = state.load()
     const customSearch = google.customsearch('v1')
 
-    await fetchGoogleAndReturnImages(search.term)
+    await fetchGoogleAndReturnImages()
     await downloadAllImagesReturned()
 
     state.save(search)
 
-    async function fetchGoogleAndReturnImages(term) {
-        const response = await customSearch.cse.list({
-            auth:       googleCustomSearchCredentials.apiKey,
-            cx:         googleCustomSearchCredentials.searchEngineId,
-            q:          term,
-            searchType: 'image',
-            pages:      10
-        })
+    async function fetchGoogleAndReturnImages() {
+        try {
+            const response = await customSearch.cse.list({
+                auth:       googleCustomSearchCredentials.apiKey,
+                cx:         googleCustomSearchCredentials.searchEngineId,
+                q:          search.term,
+                searchType: 'image',
+                num: 10
+            })
 
-        search.urls = response.data.items.map((item)=> { return item.link })
+            search.urls = response.data.items.map((item)=> { return item.link })
+        }
+        catch (err) {
+            console.log('[!] Error (' + err.message + '): querying Google')
+            if (err.message.includes('This API requires billing to be enabled on the project.')) {
+                console.log('[!] Wait until the next day to run me again.')
+            }
+            process.exit(0)
+        }
     }
 
     async function downloadAllImagesReturned() {
