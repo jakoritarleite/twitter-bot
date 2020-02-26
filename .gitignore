@@ -116,4 +116,4 @@ credentials/algorithmia.json
 state.json
 
 #Ignore every image in content
-content/images*
+content/images/*
