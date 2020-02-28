@@ -1,6 +1,6 @@
 # [Twitter Bot](https://twitter.com/hardillect) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/koritarsa)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg?style=flat)
+![version](https://img.shields.io/badge/version-2.0.1-blue.svg?style=flat)
 ![licence](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat)
 ![issues](https://img.shields.io/badge/open%20issues-1-green?style=flat)
 ![issues closed](https://img.shields.io/badge/closed%20issues-4-green.svg?style=flat)
